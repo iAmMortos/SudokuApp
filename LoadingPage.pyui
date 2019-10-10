@@ -1,0 +1,117 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 6}, {344, 91}}",
+        "class" : "Label",
+        "attributes" : {
+          "flex" : "WB",
+          "font_size" : 72,
+          "frame" : "{{75, 134}, {150, 32}}",
+          "uuid" : "E2A38A94-580F-411A-9E03-EA970D763F67",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Solving...",
+          "name" : "label1",
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 105}, {344, 43}}",
+        "class" : "Label",
+        "attributes" : {
+          "flex" : "WB",
+          "font_size" : 36,
+          "text_color" : "RGBA(0.494553,0.494553,0.494553,1.000000)",
+          "frame" : "{{75, 134}, {150, 32}}",
+          "uuid" : "E2A38A94-580F-411A-9E03-EA970D763F67",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Please Wait",
+          "name" : "label1",
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 477}, {344, 80}}",
+        "class" : "Button",
+        "attributes" : {
+          "flex" : "WT",
+          "border_width" : 0,
+          "frame" : "{{138, 241}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Cancel",
+          "uuid" : "E10BA97B-D5F7-47B0-B05B-44ED335746DB",
+          "class" : "Button",
+          "background_color" : "RGBA(0.886710,0.000000,0.000000,1.000000)",
+          "corner_radius" : 5,
+          "name" : "cancelbtn",
+          "font_size" : 48
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 191.66666666666663}, {344, 124}}",
+        "class" : "Label",
+        "attributes" : {
+          "flex" : "WTB",
+          "font_name" : "FiraMono-Bold",
+          "frame" : "{{110, 244}, {150, 32}}",
+          "uuid" : "8C64700F-FF3C-4B60-BB1B-B7D7BE858762",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "\\",
+          "font_size" : 80,
+          "name" : "loadanim"
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 426}, {344, 43}}",
+        "class" : "Label",
+        "attributes" : {
+          "flex" : "WT",
+          "font_size" : 28,
+          "text_color" : "RGBA(0.494553,0.494553,0.494553,1.000000)",
+          "frame" : "{{75, 134}, {150, 32}}",
+          "uuid" : "E2A38A94-580F-411A-9E03-EA970D763F67",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Starting...",
+          "name" : "elapsed",
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {356, 563}}",
+    "class" : "View",
+    "attributes" : {
+      "flex" : "",
+      "enabled" : true,
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "custom_class" : "LoadingPage",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : ""
+    },
+    "selected" : false
+  }
+]

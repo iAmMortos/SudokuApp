@@ -1,0 +1,80 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {60, 60}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{0, 0}, {60, 60}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WH",
+          "font_name" : "<System>",
+          "frame" : "{{-35, 24}, {150, 32}}",
+          "uuid" : "88FE77D5-F1EA-4376-9CD7-2A93B6195C1D",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "0",
+          "font_size" : 57,
+          "name" : "num"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{3, 3}, {54, 20}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "uuid" : "F19EA162-38B0-46B6-8F0F-D3670265A680",
+          "font_size" : 15,
+          "frame" : "{{-45, 14}, {150, 32}}",
+          "number_of_lines" : 0,
+          "alignment" : "left",
+          "alpha" : 1,
+          "text_color" : "RGBA(0.603486,0.603486,0.603486,1.000000)",
+          "text" : "12345",
+          "font_name" : "DejaVuSansMono",
+          "class" : "Label",
+          "name" : "notes1",
+          "flex" : "WHTB"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{3, 23}, {54, 20}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "uuid" : "F19EA162-38B0-46B6-8F0F-D3670265A680",
+          "font_size" : 15,
+          "frame" : "{{-45, 14}, {150, 32}}",
+          "number_of_lines" : 0,
+          "alignment" : "left",
+          "alpha" : 1,
+          "text_color" : "RGBA(0.603486,0.603486,0.603486,1.000000)",
+          "text" : "6789",
+          "font_name" : "DejaVuSansMono",
+          "class" : "Label",
+          "name" : "notes2",
+          "flex" : "WHTB"
+        }
+      }
+    ],
+    "attributes" : {
+      "flex" : "",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "custom_class" : "SudokuCell",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)"
+    }
+  }
+]

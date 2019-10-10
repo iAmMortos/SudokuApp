@@ -1,0 +1,215 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {340, 80}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{0, 0}, {340, 30}}",
+        "class" : "SegmentedControl",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WB",
+          "segments" : "Pen|Pencil",
+          "frame" : "{{108, 26}, {120, 29}}",
+          "tint_color" : "RGBA(1.000000,0.000000,0.000000,1.000000)",
+          "uuid" : "50348E4F-A8A7-4855-9F7A-BACB7AC6C08A",
+          "class" : "SegmentedControl",
+          "name" : "penpencil"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{306, 30}, {34, 50}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WLRB",
+          "image_name" : "iob:close_32",
+          "frame" : "{{130, 24}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,-0.033333,-0.033333,1.000000)",
+          "title" : "",
+          "class" : "Button",
+          "uuid" : "96B3F854-37D0-4039-90EC-8B2C846324E5",
+          "name" : "clrbtn",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{0, 30}, {34, 50}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WLRB",
+          "frame" : "{{130, 24}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,-0.033333,-0.033333,1.000000)",
+          "title" : "1",
+          "class" : "Button",
+          "uuid" : "96B3F854-37D0-4039-90EC-8B2C846324E5",
+          "font_size" : 15,
+          "name" : "b1"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{34, 30}, {34, 50}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WLRB",
+          "frame" : "{{130, 24}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,-0.033333,-0.033333,1.000000)",
+          "title" : "2",
+          "class" : "Button",
+          "uuid" : "96B3F854-37D0-4039-90EC-8B2C846324E5",
+          "font_size" : 15,
+          "name" : "b2"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{68, 30}, {34, 50}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WLRB",
+          "frame" : "{{130, 24}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,-0.033333,-0.033333,1.000000)",
+          "title" : "3",
+          "class" : "Button",
+          "uuid" : "96B3F854-37D0-4039-90EC-8B2C846324E5",
+          "font_size" : 15,
+          "name" : "b3"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{102, 30}, {34, 50}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WLRB",
+          "frame" : "{{130, 24}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,-0.033333,-0.033333,1.000000)",
+          "title" : "4",
+          "class" : "Button",
+          "uuid" : "96B3F854-37D0-4039-90EC-8B2C846324E5",
+          "font_size" : 15,
+          "name" : "b4"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{136, 30}, {34, 50}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WLRB",
+          "frame" : "{{130, 24}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,-0.033333,-0.033333,1.000000)",
+          "title" : "5",
+          "class" : "Button",
+          "uuid" : "96B3F854-37D0-4039-90EC-8B2C846324E5",
+          "font_size" : 15,
+          "name" : "b5"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{170, 30}, {34, 50}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WLRB",
+          "frame" : "{{130, 24}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,-0.033333,-0.033333,1.000000)",
+          "title" : "6",
+          "class" : "Button",
+          "uuid" : "96B3F854-37D0-4039-90EC-8B2C846324E5",
+          "font_size" : 15,
+          "name" : "b6"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{204, 30}, {33.999999999999972, 50}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WLRB",
+          "frame" : "{{130, 24}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,-0.033333,-0.033333,1.000000)",
+          "title" : "7",
+          "class" : "Button",
+          "uuid" : "96B3F854-37D0-4039-90EC-8B2C846324E5",
+          "font_size" : 15,
+          "name" : "b7"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{238, 30}, {34, 50}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WLRB",
+          "frame" : "{{130, 24}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,-0.033333,-0.033333,1.000000)",
+          "title" : "8",
+          "class" : "Button",
+          "uuid" : "96B3F854-37D0-4039-90EC-8B2C846324E5",
+          "font_size" : 15,
+          "name" : "b8"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{272, 30}, {34, 50}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WLRB",
+          "frame" : "{{130, 24}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,-0.033333,-0.033333,1.000000)",
+          "title" : "9",
+          "class" : "Button",
+          "uuid" : "96B3F854-37D0-4039-90EC-8B2C846324E5",
+          "font_size" : 15,
+          "name" : "b9"
+        }
+      }
+    ],
+    "attributes" : {
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "custom_class" : "SudokuKeyboard",
+      "flex" : ""
+    }
+  }
+]

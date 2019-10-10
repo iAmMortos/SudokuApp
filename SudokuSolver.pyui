@@ -1,0 +1,111 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {414, 746}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{6, 62}, {402, 402}}",
+        "class" : "View",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WHB",
+          "border_width" : 2,
+          "custom_class" : "SudokuGrid2",
+          "frame" : "{{157, 323}, {100, 100}}",
+          "border_color" : "RGBA(0.400871,0.400871,0.400871,1.000000)",
+          "class" : "View",
+          "uuid" : "80C8B311-4B12-4340-A9B4-7BD20228AE72",
+          "corner_radius" : 0,
+          "name" : "sudoku_grid"
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{6, 22}, {402, 32}}",
+        "class" : "TextField",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WB",
+          "placeholder" : "Paste ot type Puzzle String",
+          "font_name" : "<System>",
+          "frame" : "{{107, 357}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "DBB00A85-BAAA-4CDC-BB20-5E17E1B3DF30",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "font_size" : 17,
+          "name" : "puzzle_txt"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{6, 560}, {138, 68}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WB",
+          "border_width" : 2,
+          "frame" : "{{167, 357}, {80, 32}}",
+          "title" : "Clear",
+          "uuid" : "F5E76435-A962-4CE3-BA79-0AFEB80E5E9F",
+          "class" : "Button",
+          "corner_radius" : 5,
+          "name" : "clear_btn",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{270, 560}, {138, 68}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WB",
+          "border_width" : 2,
+          "frame" : "{{167, 357}, {80, 32}}",
+          "title" : "Solve",
+          "uuid" : "F5E76435-A962-4CE3-BA79-0AFEB80E5E9F",
+          "class" : "Button",
+          "corner_radius" : 5,
+          "name" : "solve_btn",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{6, 472}, {402, 80}}",
+        "class" : "View",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "keys",
+          "frame" : "{{157, 323}, {100, 100}}",
+          "flex" : "WTB",
+          "custom_class" : "SudokuKeyboard",
+          "class" : "View",
+          "uuid" : "023C7C82-F892-4D19-A6EA-17F18CD82C79"
+        }
+      }
+    ],
+    "attributes" : {
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "custom_class" : "SudokuSolver",
+      "flex" : ""
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {303, 388}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : true,
+        "frame" : "{{0, 0}, {303, 388}}",
+        "class" : "NavigationView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WH",
+          "title_bar_color" : "RGBA(1.0, 1.0, 1.0, 1.0)",
+          "frame" : "{{47, 208}, {320, 320}}",
+          "title_color" : "RGBA(0.33, 0.33, 0.33, 1.0)",
+          "uuid" : "6DE32199-CB29-4817-8AC2-B84D36A49F7C",
+          "class" : "NavigationView",
+          "root_view_name" : "Sudoku Main Menu",
+          "name" : "nv"
+        }
+      }
+    ],
+    "attributes" : {
+      "flex" : "",
+      "enabled" : true,
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "custom_class" : "Main",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)"
+    }
+  }
+]

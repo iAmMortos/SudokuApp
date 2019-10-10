@@ -1,0 +1,98 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {292, 292}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{96, 0}, {2, 292}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "HLRTB",
+          "font_name" : "<System>",
+          "frame" : "{{85, 144}, {150, 32}}",
+          "uuid" : "DCE4A2D0-AB7C-4AB4-9AFA-8B584087D7CA",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "background_color" : "RGBA(0.401961,0.401961,0.401961,1.000000)",
+          "name" : "label1",
+          "font_size" : 18
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{194, 0}, {2, 292}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "HLRTB",
+          "font_name" : "<System>",
+          "frame" : "{{85, 144}, {150, 32}}",
+          "uuid" : "DCE4A2D0-AB7C-4AB4-9AFA-8B584087D7CA",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "background_color" : "RGBA(0.401961,0.401961,0.401961,1.000000)",
+          "font_size" : 18,
+          "name" : "label1"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{0, 96}, {292, 2}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WLRTB",
+          "name" : "label1",
+          "frame" : "{{85, 144}, {150, 32}}",
+          "uuid" : "DCE4A2D0-AB7C-4AB4-9AFA-8B584087D7CA",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "background_color" : "RGBA(0.401961,0.401961,0.401961,1.000000)",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{0, 194}, {292, 2}}",
+        "class" : "Label",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WLRTB",
+          "font_name" : "<System>",
+          "frame" : "{{85, 144}, {150, 32}}",
+          "uuid" : "DCE4A2D0-AB7C-4AB4-9AFA-8B584087D7CA",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "background_color" : "RGBA(0.401961,0.401961,0.401961,1.000000)",
+          "font_size" : 18,
+          "name" : "label1"
+        }
+      }
+    ],
+    "attributes" : {
+      "flex" : "",
+      "custom_class" : "SudokuGrid2",
+      "enabled" : true,
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : ""
+    }
+  }
+]

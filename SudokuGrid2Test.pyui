@@ -1,0 +1,53 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {320, 426}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{6, 6}, {308, 308}}",
+        "class" : "View",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "border_width" : 2,
+          "flex" : "WH",
+          "custom_class" : "SudokuGrid2",
+          "frame" : "{{120, 120}, {100, 100}}",
+          "uuid" : "3FF84B64-17AA-4B1C-920E-BDAAC6EC7DC3",
+          "class" : "View",
+          "corner_radius" : 2,
+          "border_color" : "RGBA(0.400871,0.400871,0.400871,1.000000)",
+          "name" : "sg"
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{6, 320}, {308, 80}}",
+        "class" : "View",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "kb",
+          "frame" : "{{110, 163}, {100, 100}}",
+          "uuid" : "AAC37AF4-B24A-47E2-8A88-4AADF09DF9D0",
+          "custom_class" : "SudokuKeyboard",
+          "class" : "View",
+          "flex" : "WTB"
+        }
+      }
+    ],
+    "attributes" : {
+      "flex" : "",
+      "custom_class" : "SudokuGrid2Test",
+      "enabled" : true,
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : ""
+    }
+  }
+]

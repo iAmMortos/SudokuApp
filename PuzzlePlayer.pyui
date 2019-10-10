@@ -1,0 +1,86 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {356, 573}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{6, 20}, {344, 344}}",
+        "class" : "View",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "border_width" : 2,
+          "flex" : "WHB",
+          "custom_class" : "SudokuGrid2",
+          "frame" : "{{128, 237}, {100, 100}}",
+          "uuid" : "CFBA5E2A-B676-42E0-848B-EF3429D14614",
+          "class" : "View",
+          "corner_radius" : 0,
+          "border_color" : "RGBA(0.400000,0.400000,0.400000,1.000000)",
+          "name" : "sg"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{6, 372}, {344, 80}}",
+        "class" : "View",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "name" : "kb",
+          "frame" : "{{128, 237}, {100, 100}}",
+          "uuid" : "2A8AC7BA-70C3-43F0-861F-7B3712301A87",
+          "custom_class" : "SudokuKeyboard",
+          "class" : "View",
+          "flex" : "WHB"
+        }
+      },
+      {
+        "selected" : true,
+        "frame" : "{{6, 507}, {167, 60}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WRT",
+          "frame" : "{{138, 271}, {80, 32}}",
+          "title" : "Generate",
+          "uuid" : "98E6384C-95E7-46A5-8A96-0DC31955F59A",
+          "class" : "Button",
+          "name" : "genbtn",
+          "font_size" : 15
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{181, 507}, {169, 60}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WLT",
+          "frame" : "{{138, 271}, {80, 32}}",
+          "title" : "Clear",
+          "uuid" : "98E6384C-95E7-46A5-8A96-0DC31955F59A",
+          "class" : "Button",
+          "name" : "clrbtn",
+          "font_size" : 15
+        }
+      }
+    ],
+    "attributes" : {
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "custom_class" : "PuzzlePlayer",
+      "flex" : ""
+    }
+  }
+]

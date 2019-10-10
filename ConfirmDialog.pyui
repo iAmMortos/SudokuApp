@@ -1,0 +1,82 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {295, 357}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : false,
+        "frame" : "{{6, 20}, {283, 243}}",
+        "class" : "TextView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "flex" : "WH",
+          "font_size" : 24,
+          "editable" : false,
+          "frame" : "{{20, 20}, {200, 200}}",
+          "spellchecking_type" : "default",
+          "class" : "TextView",
+          "uuid" : "EBAD17DC-F3A4-4576-BBFD-4EC118919118",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "msg",
+          "font_name" : "<System>"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{152, 271}, {137, 80}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "uuid" : "1F6AE485-2459-4193-9342-4D9142146D1A",
+          "flex" : "WLT",
+          "corner_radius" : 10,
+          "background_color" : "RGBA(0.184314,0.549020,0.784314,1.000000)",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "border_width" : 0,
+          "title" : "OK",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "okbtn",
+          "font_size" : 36
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{6, 271}, {138, 80}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "uuid" : "1F6AE485-2459-4193-9342-4D9142146D1A",
+          "flex" : "WRT",
+          "corner_radius" : 10,
+          "background_color" : "RGBA(0.886275,0.000000,0.000000,1.000000)",
+          "frame" : "{{80, 104}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "border_width" : 0,
+          "title" : "Cancel",
+          "font_bold" : true,
+          "class" : "Button",
+          "name" : "cnclbtn",
+          "font_size" : 36
+        }
+      }
+    ],
+    "attributes" : {
+      "flex" : "",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "custom_class" : "ConfirmDialog",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)"
+    }
+  }
+]
